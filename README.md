@@ -1,10 +1,10 @@
 # vue-sample
 
-Wrote this simplest project within 1 day which is the 2021 Chrismas Day. 
+Wrote this simplest project within 1 day,the Chrismas Day 2021. 
 
 ## back-end
 
-The Spring boot application to provide a simple API for VUE
+The Spring boot application provides a simple API for VUE
 
 ## front-end
 
